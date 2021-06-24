@@ -1,8 +1,0 @@
-com\proyecto\springmvc\controller\HelloWorldRestController.class
-com\proyecto\springmvc\model\User.class
-com\proyecto\springmvc\configuration\HelloWorldInitializer.class
-com\proyecto\springmvc\configuration\CORSFilter.class
-com\proyecto\springmvc\controller\IndexController.class
-com\proyecto\springmvc\service\UserService.class
-com\proyecto\springmvc\service\UserServiceImpl.class
-com\proyecto\springmvc\configuration\HelloWorldConfiguration.class
