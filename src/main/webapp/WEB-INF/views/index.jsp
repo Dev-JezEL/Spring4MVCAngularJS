@@ -3,7 +3,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <head>
-<title>Más Repetido con crUd - Forte Inovation</title>
+<title>El más Repetido con CRUD</title>
 <style>
 .nombre.ng-valid {
 	background-color: lightgreen;
